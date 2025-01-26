@@ -21,11 +21,11 @@ repository               : "ArmanFz/armanfz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Arman Forouzesh"
   pronouns         : # example: "she/her"  
   bio              : "M.Sc Electrical Engineering"
-  location         : "Iran"
+  location         : "Tehran"
   employer         : "K.N.Toosi University of Technology"
   uri              : # URL
   email            : "armanforouz0@gmail.com" 
