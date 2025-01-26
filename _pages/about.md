@@ -7,13 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic webpage! I've recently finished my MSc in Electrical Engineering , specializing in the intersection of control and deep learning. My research is driven by a passion for developing innovative solutions to enhance the efficiency and effectiveness of machine learning systems. You can find my CV here.
+Hello! I am Arman Forouzesh, a recent Master's graduate in Electrical Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/), where I specialized in the intersection of control systems and deep learning. My academic and research endeavors have been fueled by a strong passion for leveraging deep learning techniques, particularly in the field of computer vision, to address complex engineering challenges. You can find my CV here.
 
 ## Research Interests
+Deep Lwearning
+Applied Machine Learning
 Computer Vision
 Depth Estimation
 Autonomous Vehicles
 
-## Current Research
-...
+## Skills
+### Programming Skills
+MATLAB & Simulink: Proficient in professional programming
+Python: Pytorch, TensorFlow, SKLearn
+PLC Step 7 (Ladder logic) & WinCC flexible
+LaTeX Logo : Proficient in generating high-quality documents
+Git
+Reference Management: Zotero, EndNote
+
+### Soft Skills
+Team Work
+Creativity
+Adaptability
+Documentation
+
+### Languages
+Persian: Native
+English: TOEFL ibt, 101
 
