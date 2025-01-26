@@ -10,7 +10,7 @@ redirect_from:
 Hello! I am Arman Forouzesh, a recent Master's graduate in Electrical Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/), where I specialized in the intersection of control systems and deep learning. My academic and research endeavors have been fueled by a strong passion for leveraging deep learning techniques, particularly in the field of computer vision, to address complex engineering challenges. You can find my CV here.
 
 ## Research Interests
-- Deep Lwearning
+- Deep Learning
 - Applied Machine Learning
 - Computer Vision
 - Depth Estimation
