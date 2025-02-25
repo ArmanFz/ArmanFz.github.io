@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About Me"
+name_disp: "Arman Forouzesh"
 author_profile: true
 redirect_from: 
   - /about/
