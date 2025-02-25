@@ -33,7 +33,7 @@ Hello! I am Arman Forouzesh, a recent Master's graduate in Electrical Engineerin
 - Persian: Native
 - English: TOEFL ibt, 101
 
-### Experience
+## Experience
 
 **Teaching Assistant - Machine Learning**  
 *Sept 2023 – Jan 2025*  
@@ -49,7 +49,7 @@ Hello! I am Arman Forouzesh, a recent Master's graduate in Electrical Engineerin
 *Oct 2023 – Jun 2024*  
 - Worked on AI in dentistry, dental disease detection, and segmentation.
 
-### Honors/Awards
+## Honors/Awards
 - Awarded Excellent for MSc thesis, K. N. Toosi University of Technology (2024)
 - Outstanding Researcher, K. N. Toosi University of Technology (2022)
 - Ranked among top 1% in Iran Nationwide Entrance Exam for M.Sc. (2021)
