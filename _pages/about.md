@@ -34,14 +34,17 @@ Hello! I am Arman Forouzesh, a recent Master's graduate in Electrical Engineerin
 - English: TOEFL ibt, 101
 
 ### Experience
+
 **Teaching Assistant - Machine Learning**  
 *Sept 2023 – Jan 2025*  
 - Created hands-on project materials and mentored students.  
 - Instructed by Prof. Aliyari.
+
 **Teaching Assistant - Fundamentals of Intelligent Systems**  
 *Jan 2023 – Jun 2023*  
 - Created hands-on project materials and mentored students.  
 - Instructed by Prof. Aliyari.
+
 **Research and Development - Smartory Lab**  
 *Oct 2023 – Jun 2024*  
 - Worked on AI in dentistry, dental disease detection, and segmentation.
